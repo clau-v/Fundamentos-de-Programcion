@@ -1,0 +1,9 @@
+INICIO:
+1.- Recordar el peso de la moneda de 10bs
+2.- Recordar el peso de la moneda de 5bs
+3.- Recordar el peso de la moneda de 1 bs
+4.- Multiplicar peso de la moneda de 10bs por 4 10*4=40
+5.- Multiplicar peso de la moneda de 5bs por 2   8*2=16
+6.- Multiplicar peso de la moneda de 1bs por 2   6*2=12
+7.- Sumar los resultados de las multiplicaciones 40+16+12=68 
+FIN

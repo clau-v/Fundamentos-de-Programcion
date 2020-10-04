@@ -1,0 +1,23 @@
+INICIO:
+1.- Recordar %actual
+2.- Recordar horaJuego
+3.- Recordar horaRedes
+4.- Recordar horaYouTube
+5.- Recordar %uso60minJuego
+6.- Recordar %uso60minRedes
+7.- Recordar %uso60minYoutube
+8.- Recordar minOBjJuego
+9.- Recordar minOBjRedes
+10.- Recordar minOBjYoutube
+11.- Convertir horaJuego a minJuego
+12.- Convertir horaRedes a minRedes
+13.- Convertir horaYouTube a minYoutube
+14.- Multiplicar minOBjJuego por %uso60minJuego
+15.- Dividir el ultimo resultado entre 60 
+16.- Multiplicar minOBjRedes por %uso60minRedes 
+17.- Dividir el ultimo resultado entre 60
+18.- Multiplicar minOBjYoutube por %uso60minYoutube
+19.- Dividir el ultimo resultado entre 60
+20.- Hallar la suma de los resultados de las ultimas 3 divisiones
+21.- Hallar la diferencia entre %actual y el total de la suma de los resultados de las ultimas 3 divisiones
+FIN

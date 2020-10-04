@@ -1,0 +1,8 @@
+INICIO:
+1.- Introducir carnet
+2.- Escanear carnet
+3.- Encontrar la serie de digitos debajo de la foto
+4.- Verificar que el ultimo digito de la serie este habilitado para transitar
+6.- Si el ultimo digito esta habilitado permitir ingreso
+7.- Si el ultimo digito no esta habilitado rechazar ingreso
+FIN

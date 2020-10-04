@@ -1,0 +1,6 @@
+INICIO:
+1.- Recordar hoy es 1miercoles
+2.- Recordar 1jueves         (es)  1
+3.- Recordar 2doMiercoles    (es) 13
+4.- Hallar la suma de 1jueves mas 2doMiercoles
+FIN

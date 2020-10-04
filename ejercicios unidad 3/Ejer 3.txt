@@ -1,0 +1,5 @@
+INICIO:
+1.- Recordar valor del pase 45
+2.- Recordar valor de 1 viaje 1,8
+3.- Hallar la división entre el valor del pase y el valor de 1 viaje 45/1,8=25
+FIN

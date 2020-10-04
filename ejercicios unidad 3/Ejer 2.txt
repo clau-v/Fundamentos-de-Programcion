@@ -1,0 +1,7 @@
+Inicio
+1.- Recordar tiempo en el que el chorro llena el tanque 10
+2.- Recordar tiempo en el que el desague vacia el tanque 15
+3.- Encontrar la diferencia entre el tiempo en el que el desague vacia el tanque y tiempo en el que el chorro llena el tanque 15-10=5
+5.- Multiplicar el tiempo en el que el chorro llena el tanque por y tiempo en el que el desague vacia el tanque 15*10=150
+6.- Dividir el producto de la multiplicacion entre la diferencia encontrada 150/5=30
+FIN

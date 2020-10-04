@@ -1,0 +1,15 @@
+Inicio     
+1.- Introducir 1CD en blanco en la ComputadoraPrincipal De La Empresa     
+2.- Copiar Informacion De Los Datos De La Empresa En El CD     
+3.- Repetir 8 veces     
+Fin     
+
+
+INICIO:
+1.- Recordar la capacidad de un CD
+2.- Recordar la equivalencia de 1GB en MB
+3.- Recordar el peso total de la informacion de la empresa en GB
+4.- Convertir el peso total de la informacion de la empresa en GB en MB
+5.- Dividir el peso total de la informacion de la empresa en MB ENTRE la capacidad de un CD
+FIN
+

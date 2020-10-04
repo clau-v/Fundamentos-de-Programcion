@@ -1,0 +1,10 @@
+INICIO:
+1.- Recordar el limite de la duracion del video
+2.- Recordar la duracion minima de una cancion
+3.- Recordar la duracion maxima de una cancion
+4.- Convertir la duracion minima de una cancion a minutos
+5.- Convertir la duracion maxima de una cancion a minutos
+6.- Sumar la duracion minima de una cancion en minutos mas la duracion maxima de una cancion en minutos
+7.- Dividir el total de la suma de la duracion minima de una cancion en minutos mas la duracion maxima de una cancion en minutos ENTRE 
+    el limite de la duracion del video
+FIN
